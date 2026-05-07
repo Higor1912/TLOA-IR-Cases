@@ -145,4 +145,4 @@ This repository is part of a broader portfolio built around the TLOA framework:
 ---
 
 *Part of the TLOA — Threat Lab Offensive Architecture*  
-*Built by Higor [Last Name] | [LinkedIn] | [GitHub]*
+*Built by Higor Silva | https://www.linkedin.com/in/higor-silva-sec/ | https://github.com/Higor1912
